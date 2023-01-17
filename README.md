@@ -112,5 +112,3 @@ Example Response:
 
 ## Author
 Elvis Rono
-
-
