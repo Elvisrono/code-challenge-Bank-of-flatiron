@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bank-of-iron/static/css/main.cc7b74c4.chunk.css",
+    "main.js": "/bank-of-iron/static/js/main.d6a4a74f.chunk.js",
+    "main.js.map": "/bank-of-iron/static/js/main.d6a4a74f.chunk.js.map",
+    "runtime-main.js": "/bank-of-iron/static/js/runtime-main.63b9a586.js",
+    "runtime-main.js.map": "/bank-of-iron/static/js/runtime-main.63b9a586.js.map",
+    "static/css/2.c5605296.chunk.css": "/bank-of-iron/static/css/2.c5605296.chunk.css",
+    "static/js/2.7fc9b434.chunk.js": "/bank-of-iron/static/js/2.7fc9b434.chunk.js",
+    "static/js/2.7fc9b434.chunk.js.map": "/bank-of-iron/static/js/2.7fc9b434.chunk.js.map",
+    "index.html": "/bank-of-iron/index.html",
+    "static/css/2.c5605296.chunk.css.map": "/bank-of-iron/static/css/2.c5605296.chunk.css.map",
+    "static/css/main.cc7b74c4.chunk.css.map": "/bank-of-iron/static/css/main.cc7b74c4.chunk.css.map",
+    "static/js/2.7fc9b434.chunk.js.LICENSE.txt": "/bank-of-iron/static/js/2.7fc9b434.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/bank-of-iron/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63b9a586.js",
+    "static/css/2.c5605296.chunk.css",
+    "static/js/2.7fc9b434.chunk.js",
+    "static/css/main.cc7b74c4.chunk.css",
+    "static/js/main.d6a4a74f.chunk.js"
+  ]
+}
