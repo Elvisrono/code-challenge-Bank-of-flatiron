@@ -21,7 +21,6 @@ To get the code,
 ```bash
    code .
 ```
- ```
 - Below at the bottom of your vs code click on the Go live to display the questions on the browser.
 
 
