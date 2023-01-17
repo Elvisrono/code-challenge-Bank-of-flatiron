@@ -31,14 +31,17 @@ function AddTransactionForm({fetchFunction}) {
 
   return (
     <div className="ui segment">
-      <form className="ui form" onSubmit={handleSubmit}>
-        <div className="inline fields">
+      <form className="formbox" onSubmit={handleSubmit}>
+        <div className="form">
           <input type="date" name="date" />
           <input type="text" name="description" placeholder="Description" />
           <input type="text" name="category" placeholder="Category" />
-          <input type="number" name="amount" placeholder="Amount" step="0.01" />
+          <input type="number" name="amount" placeholder="Amount" />
+          <br></br>
         </div>
-        <button className="ui button" type="submit">
+        <br></br>
+        <br></br>
+        <button className="btn btn-outline-info ms-1" type="submit">
           Add Transaction
         </button>
       </form>

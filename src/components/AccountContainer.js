@@ -72,6 +72,8 @@ function AccountContainer() {
       <AddTransactionForm fetchFunction={fetchAddData}/>
       <TransactionsList data={accountData} />
     </div>
+  
+    
   );
 }
 
