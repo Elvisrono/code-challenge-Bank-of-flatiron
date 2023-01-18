@@ -5,9 +5,10 @@ function AddTransactionForm({fetchFunction}) {
   // const [addedData, setAddedData] = useState(null);
 
   useEffect(() => {
-    fetchFunction(submitted)
+   fetchFunction(submitted)
 
-  }, [submitted])
+  })
+   //[submitted])
 
 
   function handleSubmit(e) {

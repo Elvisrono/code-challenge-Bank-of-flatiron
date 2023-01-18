@@ -5,7 +5,8 @@ function Search({searchFunction}) {
 
   useEffect(() => {
     searchFunction(search)
-  }, [search])
+  },
+  [search])
 
   // update state on input change 
   function handleSearch(e){

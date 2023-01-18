@@ -7,7 +7,7 @@ function AccountContainer() {
   const [accountData, setAccountData] = useState([]);
   // check state of current data
   const [accountUpdate, setAccountUpdate] = useState([...accountData])
-  const [searchData, setSearchData] = useState([...accountData]);
+  //const [searchData, setSearchData] = useState([...accountData]);
 
 
  useEffect(() => {
@@ -25,7 +25,7 @@ function AccountContainer() {
     fetch("http://localhost:8001/transactions")
       .then(res => res.json())
       .then(data => {
-        let newData = [];
+        //let newData = [];
         const filtered = data.filter(item => {
           return item.description.includes(searchTerms)
           

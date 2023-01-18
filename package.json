@@ -4,6 +4,7 @@
   "homepage": "https://morehwachege.github.io/bank-of-iron",
   "private": true,
   "dependencies": {
+    "create-react-app": "^5.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
